@@ -1,5 +1,9 @@
 # Blazor Reporting Component with Layout in Razor Markup
 
+> **Note**
+> This early prototype is provided "AS IS" with no warranty of any kind nor any maintenance/support commitments.
+> The contents of this repository can only be used with DevExpress v21.2. At present, we have no plans to enhance this product further. Should market demand change, we will certainly revisit this and publish announcements/posts on [DevExpress.com](https://www.devexpress.com/).
+
 ## Introduction
 As you may already know, a new idea arises when you look at things from a different point of view. As Blazor developers, we reviewed our report layout definition files and noticed that Reporting for Blazor lacks a designer component that would fit seamlessly into the Blazor ecosystem. Our existing DevExpress Visual Report Designer might be a bit complex, while web development in its core includes layout (html + css) and logic, and visual designers are not that popular in this world. 
 
